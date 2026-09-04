@@ -1,0 +1,6 @@
+{
+  "name": "AstroGuide99",
+  "description": "Professional astrology app powered by Swiss Ephemeris calculations with Placidus houses, offline-first Room caching, custom chart wheel, and PDF/image export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
