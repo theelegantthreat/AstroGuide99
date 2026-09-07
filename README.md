@@ -1,10 +1,12 @@
 # AstroGuide99
 
+[![License: GPL-3.0-or-later](https://img.shields.io/badge/License-GPL%203.0%20or%20later-blue.svg)](https://www.gnu.org/licenses/gpl-3.0-or-later)
+
 Welcome to AstroGuide99! A comprehensive guide and resource hub for astronomy enthusiasts, beginners, and seasoned stargazers alike.
 
 ## About
 
-AstroGuide99 is dedicated to providing accessible, accurate, and engaging content about astronomy, celestial observation, and space science. Whether you're looking to learn about constellations, understand planetary movements, or discover the best practices for stargazing, you'll find valuable resources here.
+AstroGuide99 is dedicated to providing accessible, accurate, and engaging content about astronomy, celestial observation, and space science. Whether you're looking to learn about constellations, understand planetary mechanics, or plan your next stargazing adventure, you'll find valuable resources here.
 
 ## Features
 
